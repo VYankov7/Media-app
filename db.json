@@ -1,30 +1,14 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Myra"
-    },
-    {
-      "name": "Antoinette Treutel Jr.",
-      "id": 2
-    },
-    {
-      "name": "Michele Hackett",
-      "id": 3
-    },
-    {
-      "name": "Carmen Roberts",
-      "id": 4
-    },
-    {
-      "name": "Lora Bernhard",
-      "id": 5
-    },
-    {
-      "name": "Mable Douglas Sr.",
-      "id": 6
+      "name": "Noah Stiedemann",
+      "id": 1
     }
   ],
-  "albums": [],
+  "albums": [{
+    "id": 2,
+    "title": "Hiking Trip",
+    "userId": 1
+  }],
   "photos": []
 }
