@@ -1,5 +1,18 @@
 {
-  "users": [],
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Antoinette Treutel Jr.",
+      "id": 2
+    },
+    {
+      "name": "Michele Hackett",
+      "id": 3
+    }
+  ],
   "albums": [],
   "photos": []
 }
