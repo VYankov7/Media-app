@@ -1,14 +1,25 @@
 {
   "users": [
     {
-      "name": "Noah Stiedemann",
+      "name": "Meredith Dach",
       "id": 1
+    },
+    {
+      "name": "Karl Glover",
+      "id": 2
     }
   ],
-  "albums": [{
-    "id": 2,
-    "title": "Hiking Trip",
-    "userId": 1
-  }],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Incredible Rubber Table",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "title": "Ergonomic Soft Chicken",
+      "id": 3
+    }
+  ],
   "photos": []
 }
