@@ -19,7 +19,33 @@
       "userId": 1,
       "title": "Ergonomic Soft Chicken",
       "id": 3
+    },
+    {
+      "userId": 2,
+      "title": "Modern Soft Towels",
+      "id": 4
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150/abstract?lock=94754",
+      "id": 1
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150/abstract?lock=94705",
+      "id": 2
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150/abstract?lock=42001",
+      "id": 3
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150/abstract?lock=62162",
+      "id": 4
+    }
+  ]
 }
